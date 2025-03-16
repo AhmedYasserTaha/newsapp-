@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:news_app/data/api/api.dart';
+import 'package:news_app/core/constant/api.dart';
 
 class CharacterService {
   late Dio dio;
